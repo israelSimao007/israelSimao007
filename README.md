@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @israelSimao007
 - 👀 I’m interested in programing, development web and mobile.
-- 🌱 I’m currently learning programation IOS and web.
+- 🌱 I’m currently learning programation web.
 - 💞️ I’m looking to collaborate on Project and startup
 - 📫 How to reach me facebook israel se vasco antonio
 - 😄 Pronouns: isdev
